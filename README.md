@@ -1,6 +1,6 @@
-### PDF Document QC Prototype
+## PDF Document QC Prototype
 
-## Goal: Build a prototype that scans PDFs and flags basic document quality issues. Use any publicly available sample PDFs (e.g., forms, letters, contracts) or small synthetic PDFs you create.
+### Goal: Build a prototype that scans PDFs and flags basic document quality issues. Use any publicly available sample PDFs (e.g., forms, letters, contracts) or small synthetic PDFs you create.
 
 QC checks (pick ≥5, implement well):
 
